@@ -11,5 +11,5 @@ I can't work without:
 - Chocolate
 - Coke
 
-Currently I am dedicated to the neuefische-bootcamp for web development.
+Currently I am dedicated to the [neuefische-bootcamp for web development](https://www.neuefische.de/weiterbildung/web-development).
 
