@@ -7,6 +7,9 @@ I don't drink much:
 - Coffee 
 - Tea
 
-I drink a lot: 
+I can't work without: 
+- Chocolate
 - Coke
+
+Currently I am dedicated to the neuefische-bootcamp for web development.
 
