@@ -1,15 +1,15 @@
 ## Irene Papaspyratos
 
-I am a coding **foodie**.
+Clinching the Bootcamp Hat-Trick...
 
 I don't drink much:
 - Water
 - Coffee 
 - Tea
 
-I can't work without: 
-- Chocolate
-- Coke
+I cannnot work without: 
+- Chocolate and/or wine gum
+- Coke Zero
 
-Currently I am dedicated to the [neuefische-bootcamp for web development](https://www.neuefische.de/weiterbildung/web-development).
+Currently I am dedicated to the [neuefische-bootcamp for software development](https://www.neuefische.de/).
 
