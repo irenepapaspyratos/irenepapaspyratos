@@ -1,15 +1,19 @@
 ## Irene Papaspyratos
 
-WebDev. Java. Cloud.   
-Bootcamp Hat-Trick ✅   
-😎
+As a dedicated Full Stack Developer, I fearlessly tackle every coding challenge that comes my way.
 
-I don't drink much:
-- Water
-- Coffee 
-- Tea
+### Experience:
 
-I cannnot work without: 
-- Chocolate and/or wine gum
-- Coke Zero
-
+- HTML 
+- CSS / SASS / Bootstrap 
+- JavaScript / React / Next / Styled Components
+- Java / Spring Boot 
+- PHP 
+- Python / Flask / Django 
+- Ruby 
+- Bash / Shell 
+- SQL / NoSQL 
+- Docker 
+- CI/CD 
+- AWS 
+- Terraform
