@@ -1,19 +1,17 @@
 ## Irene Papaspyratos
 
-As a dedicated Full Stack Developer, I fearlessly tackle every coding challenge that comes my way.
+This dedicated Full Stack Developer, fearlessly tackles every coding challenge that comes her way.
 
-### Experience:
+### Tech Stack:
 
 - HTML 
-- CSS / SASS / Bootstrap 
-- JavaScript / React / Next / Styled Components
-- Java / Spring Boot 
-- PHP 
-- Python / Flask / Django 
-- Ruby 
+- CSS / SASS / LESS / Bootstrap 
+- JavaScript / TypeScript / React / Next / Styled Components 
+- PHP / Java / Spring Boot / Python / Flask / Django / FastAPI 
+- SQL / NoSQL / SQLite / MySQL / MariaDB / MongoDB / Amazon DynamoDB 
 - Bash / Shell 
-- SQL / NoSQL 
-- Docker 
-- CI/CD 
-- AWS 
-- Terraform
+- AWS Cloud / Terraform 
+
+
+![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irenepapaspyratos&theme=default&hide_border=false&include_all_commits=true&count_private=true&langs_count=10&layout=compact) 
+![Github-Stats](https://github-readme-stats.vercel.app/api?username=irenepapaspyratos&theme=default&hide_border=false&include_all_commits=true&count_private=true&line_height=28) 
