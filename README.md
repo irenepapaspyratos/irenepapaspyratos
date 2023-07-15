@@ -1,6 +1,6 @@
 ## Irene Papaspyratos
 
-This dedicated Full Stack Developer, fearlessly tackles every coding challenge that comes her way.
+This dedicated Full Stack Developer fearlessly tackles every coding challenge that comes her way.
 
 ### Tech Stack:
 
