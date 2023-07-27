@@ -14,4 +14,4 @@ This dedicated Full Stack Developer fearlessly tackles every coding challenge th
 
 
 ![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irenepapaspyratos&theme=default&hide_border=false&include_all_commits=true&count_private=true&langs_count=10&layout=compact) 
-![Github-Stats](https://github-readme-stats.vercel.app/api?username=irenepapaspyratos&custom_title=Irene+Papaspyratos%27+GitHub+Stats&theme=default&hide_border=false&include_all_commits=true&count_private=true&line_height=28) 
+![Github-Stats](https://github-readme-stats.vercel.app/api?username=irenepapaspyratos&custom_title=Irene+Papaspyratos%27+GitHub+Stats&theme=default&show_icons=true&hide_border=false&count_private=true&line_height=28) 
