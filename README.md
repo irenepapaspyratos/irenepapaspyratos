@@ -4,8 +4,7 @@ This dedicated Full Stack Developer fearlessly tackles every coding challenge th
 
 ### Tech Stack:
 
-- HTML 
-- CSS / SASS / LESS / Bootstrap 
+- HTML / CSS / SASS / LESS / Bootstrap 
 - JavaScript / TypeScript / React / Next / Styled Components 
 - PHP / Java / Spring Boot / Python / Flask / Django / FastAPI 
 - SQL / NoSQL / SQLite / MySQL / MariaDB / MongoDB / Amazon DynamoDB 
